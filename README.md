@@ -1,12 +1,12 @@
-## Olá, eu sou Gabriel Cavalcante! 👋
+## Hi there, I'm Gabriel Cavalcante! 👋
 
-> *Estudante de Sistemas de Informação na UNIFACOL • 18 anos • Java ☕*
+> *Information Systems Student at UNIFACOL • 18 years old • Java ☕*
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### 🛠 Tech & Tools
 
-Aqui estão algumas das ferramentas e linguagens que utilizo:
+Here are some of the tools and languages I use:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="55" alt="Eclipse" />
@@ -24,7 +24,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 Let's Connect?
 
 <p align="center">
   <a href="https://instagram.com/why.gabri" target="_blank">
