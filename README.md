@@ -44,3 +44,6 @@ Here are some of the tools and languages I use:
   </a>
 </p>
 
+<p align="center">
+  <img src="https://githubcard.com/ogabrielcavalcante.svg?d=lR4bqFsAq85t&v=2" alt="GitHub Stats" />
+</p>
